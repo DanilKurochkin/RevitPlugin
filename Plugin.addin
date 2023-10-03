@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>ComfortProject</Name>
+		<Assembly>ComfortProject/Plugin.dll</Assembly>
+		<AddInId>636BBB4D-3050-4DAA-9E21-4D4DCFD9AFEC</AddInId>
+		<FullClassName>Plugin.MainApplication</FullClassName>
+		<VendorId>Danil Kurochkin</VendorId>
+		<VendorDescription>:)</VendorDescription>
+	</AddIn>
+</RevitAddIns> 
